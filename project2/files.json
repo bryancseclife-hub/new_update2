@@ -1,8 +1,6 @@
 {
-  "version": "2026-10-05-201940",
+  "version": "2026-10-04-132327",
   "files": [
-    "config.py",
-    "files.json",
     "main.py"
   ],
   "preserve": []
